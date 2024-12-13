@@ -1,14 +1,14 @@
 # SQL-injection-scanner
 
 
-#Basic Requirements:
+!!Basic Requirements:
 
 Python
 requests library (for making HTTP requests)
 BeautifulSoup library (for HTML parsing)
 
 
-#How to Use:
+!!How to Use:
 
 1pip install requests beautifulsoup4
 2Run the script.
@@ -16,4 +16,4 @@ BeautifulSoup library (for HTML parsing)
 4The scanner will test for SQL injection on form and URL parameters.
 5It will print vulnerabilities with detected payloads.
 
- educational purposes only
+!!educational purposes only
